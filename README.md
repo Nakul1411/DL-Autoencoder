@@ -182,10 +182,11 @@ class DenoisingAutoencoder(nn.Module):
 ### Model Summary
 
 ### Training loss
-<img width="441" height="237" alt="image" src="https://github.com/user-attachments/assets/f9cdd6da-1768-4ffe-b607-08fd6823aa9b" />
+<img width="392" height="187" alt="image" src="https://github.com/user-attachments/assets/3db34cac-80a0-4d38-ae5e-8eab9ea38042" />
+
 
 ## Original vs Noisy Vs Reconstructed Image
-<img width="1713" height="585" alt="image" src="https://github.com/user-attachments/assets/35eccaa9-580b-441a-bb89-5e24bb785363" />
+<img width="1473" height="469" alt="image" src="https://github.com/user-attachments/assets/f62d76e7-90ca-4230-9d5a-8847fe33a40d" />
 
 ## RESULT
 Include your result here
